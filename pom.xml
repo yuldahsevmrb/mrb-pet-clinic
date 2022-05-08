@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>mrb.yuldashev</groupId>
 	<artifactId>mrb-pet-clinic</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>mrb-pet-clinic</name>
 	<description>MRB Pet Clinic</description>
 	<properties>
@@ -40,6 +40,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/yuldahsevmrb/mrb-pet-clinic.git</developerConnection>
-	  <tag>mrb-pet-clinic-0.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 </project>
