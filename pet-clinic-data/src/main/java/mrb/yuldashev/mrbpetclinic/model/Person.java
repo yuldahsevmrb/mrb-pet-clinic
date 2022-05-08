@@ -1,6 +1,6 @@
 package mrb.yuldashev.mrbpetclinic.model;
 
-public class Person {
+public class Person extends BaseEntity {
     private String firstName;
     private String lastNmae;
 
